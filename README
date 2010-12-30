@@ -1,0 +1,9 @@
+These two custom keyboards might be useful for one or the other.
+They are based on the regular OS X German keyboard layout but with slight modifications 
+to accommodate transliteration of Arabic/Persian/Turkish etc. texts.
+They work with DMG and MESA style of Transliteration. Use the keyboard viewer to find the
+exact position of the keys.
+
+The second layout is useful for Latex & friends.
+
+If you want to use these layouts put them into ~/Library/Keyboard Layouts/
